@@ -1,0 +1,3 @@
+Functions Auto Folder: Any functions put in here will be automatically dot sourced and loaded upon form load. Only put things in here that need to be running on first load. Put things that will be clicked on in the static folder. 
+
+Functions Static Folder: Any functions in here need to be explicitly loaded. Useful for loading a function in a certain order, or for loading a function only when a control is activated. Putting functions in here help the form load that much faster... 
